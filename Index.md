@@ -1,0 +1,1 @@
+# API, pretty much a catch all api some of the projects I've made thus far, The hope is to streamline work going forward. The file calls other apis and does a bit of web scraping to return an api with any relevent info.
